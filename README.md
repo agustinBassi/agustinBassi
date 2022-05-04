@@ -11,7 +11,7 @@
  
 ### 👤 &nbsp; About me 
 
-I am a developer with 10+ years of experience. My first years were dedicated to electronics and C language applications, and since 2018 working as a Python Backend Engineer. Along the way I have worked in different roles and technologies, had my own startup, worked as a teacher and have my own tech platform and obviously have programmed in all of them. These combinations gave me a wide experience to approach the work from different points of view and applying a high quality to the day-to-day work.
+I am a developer with 10+ years of experience. My first years were dedicated to electronics and C language applications, and since 2018 working as a Python Backend Engineer. Along the way I have worked in different roles and technologies, had my own startup, worked as a teacher, have my own tech platform and obviously have programmed in all of them. These combinations gave me a wide experience to approach the work from different points of view and applying a high quality to the day-to-day work.
 
 ### 💻 &nbsp; My Website
      
