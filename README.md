@@ -15,16 +15,16 @@ I am a developer with 10+ years of experience. My first years were dedicated to 
 
 ### 💻 &nbsp; My Website
      
-Having my website was one of my most wanted wishes. Starting to work as a teacher was the kickoff to begin writing articles about topics I am interested in and also creating projects that make the exposed theory a reality, serving both for teaching purposes as well as all any other interested people. So, after more than two years delivering materials in different flavours I achieved the goal to get my own tech platform oriented to Internet of Things, **Goto IoT.** The aim of the platform is to have a website to publish articles about techonologies, a Github Organization to create projects extremelly well documented and easy to use and a community where the members can interact to. 
+Having my website was one of my most wanted wishes. Starting to work as a teacher was the kickoff to begin writing articles about topics I am interested in and also creating projects that make the exposed theory a reality, serving both for teaching purposes as well as to any other interested people. So, after more than two years delivering materials in different flavours I achieved the goal to get my own tech platform oriented to Internet of Things, **Goto IoT.** The aim of the platform is to have a website to publish articles about techonologies, a Github Organization to create projects extremelly well documented and easy to use and a community where the members can interact to. 
 
-Due to I decided to focus my efforts in Goto IoT, I have been moving most of my repos there. The projects I have here are the ones that don't fit within the Goto IoT sphere (yet) and they do not follow the quality of Goto IoT projects. A quick note about Goto IoT is that its target are Spanish speakers, so you probably have to translate the content if you don't speak Spanish.
+Due to I decided to focus my efforts in Goto IoT, I have been moving most of my repos there. The projects I have here are the ones that do not fit within the Goto IoT sphere nor they do not follow the quality of Goto IoT projects. A quick note about Goto IoT is that its target are Spanish speakers.
 
 <h5 align="center">Follow Goto IoT</h5>
 <div align="center">
   <a href="https://www.gotoiot.com/" target="blank"><img src="https://img.shields.io/badge/-Goto%20IoT%20Site-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.gotoiot.com/" /></a>
    <a href="https://github.com/gotoiot" target="blank"><img src="https://img.shields.io/badge/-Github%20Organization-000000?style=flat&logo=Github&logoColor=white&link=https://github.com/gotoiot" /></a>
    <a href="https://twitter.com/gotoiot" target="blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gotoiot" /></a> 
-   <a href="https://groups.google.com/g/gotoiot" target="https://img.shields.io/badge/-Goto%20IoT%20Community-47CCCC?style=flat&logo=Google-Groups&logoColor=white&link=https://groups.google.com/g/gotoiot" /></a> 
+   <a href="https://groups.google.com/g/gotoiot" target="blank"><img src="https://img.shields.io/badge/-Goto%20IoT%20Community-47CCCC?style=flat&logo=Google-Groups&logoColor=white&link=https://groups.google.com/g/gotoiot" /></a> 
    
 </div>
 
