@@ -7,13 +7,13 @@
  
 ### 👤 &nbsp; About me 
 
-I've been coding for more than 10 years. My first ones were dedicated to electronics and C language applications, and since 2018 working as a Python Backend engineer. Along the way I've worked in different roles and technologies, had my own startup, worked as a teacher, my own tech site. For sure coding in all of them. These combinations gave me a expertise to approach the work from different points of view applying high quality to the daily work.
+I've been coding for more than 10 years. My first ones were dedicated to electronics and C language applications, and since 2018 working as a Python Backend Engineer. Along the way I've worked in different roles and technologies, had my own startup, worked as a teacher, my own tech site. For sure programming in all of them. These combinations gave me expertise to approach the work from different points of view applying high quality to the daily work.
 
 ### 💻 &nbsp; My Website
      
 Having my website was one of my most wanted wishes. Starting to work as a teacher was the kickoff to begin writing articles about topics I am interested in and also creating projects that make the exposed theory a reality, serving both for teaching purposes as well as to any other interested people. So, after more than two years delivering materials in different flavours I achieved the goal to get my own tech platform oriented to Internet of Things, **Goto IoT.** The aim of the platform is to have a website to publish articles about techonologies, a Github Organization to create well documented and easy to use projects and a community where the members can interact each others. 
 
-Due to decided to focus my efforts in Goto IoT, I've been moving most of my repos there. The projects I have here are don't fit within the Goto IoT or they don't follow the quality of Goto IoT projects. The plantorm target is for Spanish speakers.
+Due to decided to focus my efforts in Goto IoT, I've been moving most of my repos there. The projects I've here don't fit within the Goto IoT or they don't follow the quality of Goto IoT projects. The platorm is targeted for Spanish speakers.
 
 <h5 align="center">Follow Goto IoT</h5>
 <div align="center">
