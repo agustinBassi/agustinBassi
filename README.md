@@ -1,23 +1,19 @@
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Agustin</h1>
+<h1 align="center">Hi there, I'm Agustin</h1>
 <h3 align="center">A passionate Backend and IoT Developer 👨‍💻 || Blogger 📝 || Nature lover 🚵‍♂️ </h3>
 <div align="center">
    <a href='https://www.linkedin.com/in/agustin-bassi/'>
     <img src="https://img.shields.io/badge/-Agustin%20Bassi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agustin-bassi/">
-  <a/>
-     <a href='mailto:jagustinbassi@gmail.com'>
-    <img src="https://img.shields.io/badge/-Agustin%20Bassi-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jagustinbassi@gmail.com">
-  <a/>
        </div>
  
 ### 👤 &nbsp; About me 
 
-I am a developer with 10+ years of experience. My first years were dedicated to electronics and C language applications, and since 2018 working as a Python Backend Engineer. Along the way I have worked in different roles and technologies, had my own startup, worked as a teacher, have my own tech platform and obviously have programmed in all of them. These combinations gave me a wide experience to approach the work from different points of view and applying a high quality to the day-to-day work.
+I've been coding for more than 10 years. My first ones were dedicated to electronics and C language applications, and since 2018 working as a Python Backend engineer. Along the way I've worked in different roles and technologies, had my own startup, worked as a teacher, my own tech site. For sure coding in all of them. These combinations gave me a expertise to approach the work from different points of view applying high quality to the daily work.
 
 ### 💻 &nbsp; My Website
      
-Having my website was one of my most wanted wishes. Starting to work as a teacher was the kickoff to begin writing articles about topics I am interested in and also creating projects that make the exposed theory a reality, serving both for teaching purposes as well as to any other interested people. So, after more than two years delivering materials in different flavours I achieved the goal to get my own tech platform oriented to Internet of Things, **Goto IoT.** The aim of the platform is to have a website to publish articles about techonologies, a Github Organization to create projects extremelly well documented and easy to use and a community where the members can interact to. 
+Having my website was one of my most wanted wishes. Starting to work as a teacher was the kickoff to begin writing articles about topics I am interested in and also creating projects that make the exposed theory a reality, serving both for teaching purposes as well as to any other interested people. So, after more than two years delivering materials in different flavours I achieved the goal to get my own tech platform oriented to Internet of Things, **Goto IoT.** The aim of the platform is to have a website to publish articles about techonologies, a Github Organization to create well documented and easy to use projects and a community where the members can interact each others. 
 
-Due to I decided to focus my efforts in Goto IoT, I have been moving most of my repos there. The projects I have here are the ones that do not fit within the Goto IoT sphere nor they do not follow the quality of Goto IoT projects. A quick note about Goto IoT is that its target are Spanish speakers.
+Due to decided to focus my efforts in Goto IoT, I've been moving most of my repos there. The projects I have here are don't fit within the Goto IoT or they don't follow the quality of Goto IoT projects. The plantorm target is for Spanish speakers.
 
 <h5 align="center">Follow Goto IoT</h5>
 <div align="center">
