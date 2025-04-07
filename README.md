@@ -30,7 +30,7 @@ This project reflects my creativity in building reusable projects, my dedication
 
 ### My current Github profile
 
-Most of my recent work has been focused on Goto IoT, so I’ve moved the majority of my repositories there. The projects I previously hosted here no longer reflect my current approach or standards, which is why I've made them private.
+As I have been focused on Goto IoT, I moved the majority of my repositories there. The projects I previously hosted here no longer reflect my current approach or standards, which is why I've made them private.
 
 As for my backend development work since 2018, those projects are part of private or proprietary codebases, so unfortunately I can’t share them publicly on GitHub.
 
