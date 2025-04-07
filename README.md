@@ -7,17 +7,19 @@ _I've been coding half of my life_ 👨‍💻
  
 ### 👤 &nbsp; About me 
 
-I started in 2008 by programming embedded systems in C/C++ and since 2018 working as a Python Backend Engineer. Along the way I've worked in different roles and technologies; had my own startup, worked as a teacher, created my own tech platform and worked in different product teams. For sure programming in all of them. These combinations gave me a good variety of experiences to approach the work from different points of view applying high quality to the daily work.
+My coding journey began in 2008, programming embedded systems in C/C++. Since 2018, I've been working primarily as a Python Backend Engineer. Over the years, I've worn many hats — from founding my own startup and teaching, to building a tech platform from scratch and contributing to various product teams.
+
+What’s been consistent throughout is that I coded across all these roles. This diverse background has given me a good perspective on problem-solving, allowing me to bring both technical depth and a quality-first mindset to my daily work.
 
 ### 💻 &nbsp; Goto IoT, my tech platform
 
 > _**Note**: The platform is targeted to Spanish speakers, use the translator in case you don't read in Spanish._
 
-While working as a teacher in the [IoT Master at Buenos Aires University](https://www.fi.uba.ar/posgrado/maestrias/internet-de-las-cosas), I realized that would be great for the students to have a single place to consume academic articles, IoT projects and a community to provide collaborative support and discuss different topics related to IoT. Because of my passion for the open-source world, I opened the platform not only for my students, but also to anybody in the web.
+While teaching in the [IoT Master's Program at the University of Buenos Aires](https://www.fi.uba.ar/posgrado/maestrias/internet-de-las-cosas), I saw a clear need: students lacked a centralized space to access academic content, explore IoT projects, and engage in community-driven discussions. That insight, combined with my passion for open source, led me to create a platform not just for my students — but for anyone on the web.
 
-By accessing [the site](https://www.gotoiot.com/index.html) you can see all the articles and projects - [all the articles](https://www.gotoiot.com/pages/articles.html) have the same format whereas [the projects](https://github.com/orgs/gotoiot/repositories?q=sort%3Aname-asc) have excellent documentation with a strong focus in the consumers' experience, making them really easy to follow, to install dependencies and see all the related documentation. Furthermore [the wiki](https://github.com/gotoiot/doc/wiki) provides complementary documentation to the projects' self-contained ones. 
+Through the [Goto IoT site]([url](https://www.gotoiot.com/index.html)), you can explore a [curated set of articles](https://www.gotoiot.com/pages/articles.html), all following a consistent, easy-to-digest format, as well as [hands-on projects](https://github.com/orgs/gotoiot/repositories?q=sort%3Aname-asc) featuring detailed documentation and a strong focus on user experience. They’re designed to be simple to follow, with clear setup instructions and well-organized support material. You can also dive into [the wiki]([url](https://github.com/gotoiot/doc/wiki)) for extended documentation and technical deep-dives.
 
-This evidences my creativity for lots reusable projects that can be used as a starting point, for writing easy to follow articles and for teaching people.
+This project reflects my creativity in building reusable projects, my dedication to writing accessible technical content, and my soft skills in teaching and community-building.
 
 <div align="">
    <a href="https://www.gotoiot.com/" target="blank"><img src="https://img.shields.io/badge/-Goto%20IoT%20Site-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.gotoiot.com/" /></a>
@@ -28,7 +30,11 @@ This evidences my creativity for lots reusable projects that can be used as a st
 
 ### My current Github profile
 
-Due to I focused my efforts in Goto IoT, I've been moving most of my repos there and the ones that I used to have here don't reflect the way I create projects anymore, for that reason I made them private. Regarding the backend projects I've been working on since 2018, all of them are private projects and can't publish them here. Summarizing, if you want to see how I work you can go to the Goto IoT site or have a private conversation to know more about this.
+Most of my recent work has been focused on Goto IoT, so I’ve moved the majority of my repositories there. The projects I previously hosted here no longer reflect my current approach or standards, which is why I've made them private.
+
+As for my backend development work since 2018, those projects are part of private or proprietary codebases, so unfortunately I can’t share them publicly on GitHub.
+
+If you’d like to learn more about my work, check out Goto IoT — or feel free to reach out for a private conversation. I'm always happy to connect and share insights about my experience and how I approach building software.
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -37,8 +43,7 @@ Due to I focused my efforts in Goto IoT, I've been moving most of my repos there
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;   
-![MongoDb](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
